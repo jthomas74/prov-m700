@@ -1,0 +1,7 @@
+idx=
+sipline=
+sippass=
+mailbox=
+accode=
+ipei=
+name=
